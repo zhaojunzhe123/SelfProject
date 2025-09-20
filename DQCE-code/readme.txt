@@ -1,0 +1,1 @@
+install cuda gpu version, cudann, numpy, torch
